@@ -1,2 +1,2 @@
 FROM busybox
-RUN echo hellothfdsff > world
+RUN echo hellothfdsffasd > world
