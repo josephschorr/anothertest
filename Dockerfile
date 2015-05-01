@@ -1,2 +1,2 @@
 FROM busybox
-RUN echo hellosh > world
+RUN echo helloth > world
